@@ -1,0 +1,20 @@
+<resources>
+
+    <color name="primaryRed">#D32F2F</color>
+    <color name="secondaryOrange">#F57C00</color>
+    <color name="backgroundDark">#0F172A</color>
+    <color name="cardBackground">#1E293B</color>
+    <color name="textWhite">#FFFFFF</color>
+    <color name="safeGreen">#2E7D32</color>
+    <color name="colorAccent">#F57C00</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="white">#FBFFFFFF</color>
+    <color name="warningAmber">#FFC107</color>
+
+
+</resources>
+
+
+
+
+

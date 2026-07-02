@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="180dp"
+    android:height="120dp"
+    android:viewportWidth="180"
+    android:viewportHeight="120">
+
+    <!-- Background light wave -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M0,60 C30,20 60,100 90,60 S150,100 180,60 L180,120 L0,120 Z" />
+
+    <!-- Middle darker wave -->
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M0,65 C30,25 60,105 90,65 S150,105 180,65 L180,120 L0,120 Z" />
+
+    <!-- Top primary wave -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M0,70 C30,30 60,110 90,70 S150,110 180,70 L180,120 L0,120 Z" />
+</vector>
